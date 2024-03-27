@@ -1,0 +1,25 @@
+{
+  "name": "z7uk5-advanced-calculator",
+  "version": "20.11.0",
+  "description": "An advanced calculator with TypeScript, Node.js, and inquirer",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gulshan",
+  "license": "MIT",
+  "dependencies": {
+    "advanced-calculator": "^1.1.1",
+    "inquirer": "^9.2.16",
+    "module_name": "^1.0.0",
+    "rxjs": "^7.8.1",
+    "strip-ansi": "^7.1.0",
+    "z7uk5-advanced-calculator": "^1.0.0",
+    "z7uk5-advancedz5-calculator": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
